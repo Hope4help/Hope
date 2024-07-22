@@ -87,7 +87,7 @@ export default function Cause() {
                 <div className="col-md-4 col-sm-6 custom-grid col-12">
                 <div className="wpo-case-item">
                     <div className="wpo-case-img">
-                    <img src="/src/assets/images/case/img-1.png" alt="img-1" />
+                    <img src="/public/assets/images/case/img-1.png" alt="img-1" />
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
@@ -99,7 +99,7 @@ export default function Cause() {
                 <div className="col-md-4 col-sm-6 custom-grid col-12">
                 <div className="wpo-case-item">
                     <div className="wpo-case-img">
-                    <img src="/src/assets/images/case/img-2.png" alt="img-2" />
+                    <img src="/public/assets/images/case/img-2.png" alt="img-2" />
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
@@ -111,7 +111,7 @@ export default function Cause() {
                 <div className="col-md-4 col-sm-6 custom-grid col-12">
                 <div className="wpo-case-item">
                     <div className="wpo-case-img">
-                    <img src="/src/assets/images/case/img-3.png" alt="img-3" />
+                    <img src="/public/assets/images/case/img-3.png" alt="img-3" />
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
@@ -123,7 +123,7 @@ export default function Cause() {
                 <div className="col-md-4 col-sm-6 custom-grid col-12">
                 <div className="wpo-case-item">
                     <div className="wpo-case-img">
-                    <img src="/src/assets/images/case/img-4.png" alt="img-4" />
+                    <img src="/public/assets/images/case/img-4.png" alt="img-4" />
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
@@ -135,7 +135,7 @@ export default function Cause() {
                 <div className="col-md-4 col-sm-6 custom-grid col-12">
                 <div className="wpo-case-item">
                     <div className="wpo-case-img">
-                    <img src="/src/assets/images/case/img-5.png" alt="img-5" />
+                    <img src="/public/assets/images/case/img-5.png" alt="img-5" />
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
@@ -147,7 +147,7 @@ export default function Cause() {
                 <div className="col-md-4 col-sm-6 custom-grid col-12">
                 <div className="wpo-case-item">
                     <div className="wpo-case-img">
-                    <img src="/src/assets/images/case/img-6.png" alt="img-6" />
+                    <img src="/public/assets/images/case/img-6.png" alt="img-6" />
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">

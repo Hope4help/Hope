@@ -48,7 +48,7 @@ export default function Home() {
                 <div className="col-md-3 col-sm-6 col-12 custom-grid">
                 <div className="wpo-mission-item">
                     <div className="wpo-mission-icon">
-                    <img src="/src/assets/images/mission/img-8.png" alt="img2" />
+                    <img src="/public/assets/images/mission/img-8.png" alt="img2" />
                     </div>
                     <div className="wpo-mission-content">
                     <h2>Clean Water</h2>
@@ -59,7 +59,7 @@ export default function Home() {
                 <div className="col-md-3 col-sm-6 col-12 custom-grid">
                 <div className="wpo-mission-item">
                     <div className="wpo-mission-icon">
-                    <img src="/src/assets/images/mission/img-5.png" alt="hbnj" />
+                    <img src="/public/assets/images/mission/img-5.png" alt="hbnj" />
                     </div>
                     <div className="wpo-mission-content">
                     <h2>Healthy Food</h2>
@@ -70,7 +70,7 @@ export default function Home() {
                 <div className="col-md-3 col-sm-6 col-12 custom-grid">
                 <div className="wpo-mission-item">
                     <div className="wpo-mission-icon">
-                    <img src="/src/assets/images/mission/img-6.png" alt="hbnj" />
+                    <img src="/public/assets/images/mission/img-6.png" alt="hbnj" />
                     </div>
                     <div className="wpo-mission-content">
                     <h2>Pure Education</h2>
@@ -81,7 +81,7 @@ export default function Home() {
                 <div className="col-md-3 col-sm-6 col-12 custom-grid">
                 <div className="wpo-mission-item">
                     <div className="wpo-mission-icon">
-                    <img src="/src/assets/images/mission/img-7.png" alt="hbnj" />
+                    <img src="/public/assets/images/mission/img-7.png" alt="hbnj" />
                     </div>
                     <div className="wpo-mission-content">
                     <h2>Medical Facilities</h2>
@@ -98,7 +98,7 @@ export default function Home() {
         <div className="row">
           <div className="col-lg-7 col-md-6 colsm-12">
             <div className="wpo-about-img-2">
-              <img src="/src/assets/images/about2.png" alt="hbnj" />
+              <img src="/public/assets/images/about2.png" alt="hbnj" />
             </div>
           </div>
           <div className="col-lg-5 col-md-6 colsm-12">
@@ -164,7 +164,7 @@ export default function Home() {
               <div className="col-12">
                 <div className="wpo-world-section">
                   <h2>Lets Change The World With Humanity</h2> 
-                  <Link to="/volunteer"><img src="/src/assets/images/team/1.png" alt="vol" />Become A Volunteer</Link>
+                  <Link to="/volunteer"><img src="/public/assets/images/team/1.png" alt="vol" />Become A Volunteer</Link>
                 </div>
               </div>
             </div>
