@@ -14,7 +14,7 @@ export default function Header() {
           <span className="icon-bar" />
           <span className="icon-bar" />
         </button>
-        <Link className="navbar-brand" to="/"><img src="./public/assets/images/hope-logo.png" alt="logo" /></Link>
+        <Link className="navbar-brand" to="/"><img src="./assets/images/hope-logo.png" alt="logo" /></Link>
         
       </div>
       <div id="navbar" className="navbar-collapse collapse navbar-right navigation-holder">

@@ -19,7 +19,7 @@ export default function Demo() {
         <div className="col-md-4 col-sm-6 custom-grid col-12">
           <div className="wpo-case-item">
             <div className="wpo-case-img">
-              <img src="/public/assets/images/case/img-1.png" 
+              <img src="/assets/images/case/img-1.png" 
               alt="img-1.png" />
             </div>
             <div className="wpo-case-content">
@@ -38,7 +38,7 @@ export default function Demo() {
         <div className="col-md-4 col-sm-6 custom-grid col-12">
           <div className="wpo-case-item">
             <div className="wpo-case-img">
-              <img src="/public/assets/images/case/img-2.png" 
+              <img src="/assets/images/case/img-2.png" 
               alt="img-2.png" />
             </div>
             <div className="wpo-case-content">
@@ -57,7 +57,7 @@ export default function Demo() {
         <div className="col-md-4 col-sm-6 custom-grid col-12">
           <div className="wpo-case-item">
             <div className="wpo-case-img">
-              <img src="/public/assets/images/case/img-3.png" 
+              <img src="/assets/images/case/img-3.png" 
               alt="img-3.png" />
             </div>
             <div className="wpo-case-content">

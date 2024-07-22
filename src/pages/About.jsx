@@ -27,9 +27,9 @@ export default function About() {
               <div className="col-lg-8 col-lg-offset-2">
                 <div className="wpo-about-video-item">
                   <div className="wpo-about-video-img">
-                    <img src="/public/assets/images/about-vedio.jpg" alt="abt-vid" />
+                    <img src="/assets/images/about-vedio.jpg" alt="abt-vid" />
                     <div className="entry-media video-holder">
-                      <a href="/public/assets/videos/Video Concept for NGO to Promote Donations.mp4" target='_blank' className="video-btn" data-type="iframe">
+                      <a href="/assets/videos/Video Concept for NGO to Promote Donations.mp4" target='_blank' className="video-btn" data-type="iframe">
                         <i className />
                         </a>
                     </div>
@@ -123,7 +123,7 @@ export default function About() {
               </div>
               <div className="col-lg-6 col-md-6 colsm-12">
                 <div className="wpo-about-img">
-                  <img src="/public/assets/images/about.png" alt="about" />
+                  <img src="/assets/images/about.png" alt="about" />
                 </div>
               </div>
             </div>
@@ -145,7 +145,7 @@ export default function About() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/public/assets/images/team/team-1.jpg" alt="team-1" />
+                    <img src="/assets/images/team/team-1.jpg" alt="team-1" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -159,7 +159,7 @@ export default function About() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/public/assets/images/team/team-2.jpg" alt="team-2" />
+                    <img src="/assets/images/team/team-2.jpg" alt="team-2" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -173,7 +173,7 @@ export default function About() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/public/assets/images/team/team-3.jpg" alt="team-3" />
+                    <img src="/assets/images/team/team-3.jpg" alt="team-3" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">

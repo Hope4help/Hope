@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="col col-lg-3 col-md-3 col-sm-6">
             <div className="widget about-widget">
               <div className="logo widget-title">
-                <img src="/public/assets/images/hope2-logo.png" alt="blog" /> 
+                <img src="/assets/images/hope2-logo.png" alt="blog" /> 
                
               </div>
               <p>Build and Earn with your online store with lots of cool and exclusive wpo-features </p>
@@ -31,7 +31,7 @@ export default function Footer() {
               </div>
               <div className="news-wrap">
                 <div className="news-img">
-                  <img src="/public/assets/images/footer/img-1.jpg" alt="img1" />
+                  <img src="/assets/images/footer/img-1.jpg" alt="img1" />
                 </div>
                 <div className="news-text">
                   <h3>Education for all poor children</h3>
@@ -40,7 +40,7 @@ export default function Footer() {
               </div>
               <div className="news-wrap">
                 <div className="news-img">
-                  <img src="/public/assets/images/footer/img-2.jpg" alt="img2" />
+                  <img src="/assets/images/footer/img-2.jpg" alt="img2" />
                 </div>
                 <div className="news-text">
                   <h3>Education for all poor children</h3>

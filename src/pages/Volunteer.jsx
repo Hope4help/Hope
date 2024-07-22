@@ -29,7 +29,7 @@
 //                   <div className="volunteer-item">
 //                     <div className="volunteer-img-wrap">
 //                       <div className="volunter-img">
-//                         <img src="/public/assets/images/volunteer.jpg" alt />
+//                         <img src="/assets/images/volunteer.jpg" alt />
 //                       </div>
 //                     </div>
 //                   </div>
@@ -102,7 +102,7 @@
 //                 <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
 //                   <div className="wpo-team-wrap">
 //                     <div className="wpo-team-img">
-//                       <img src="/public/assets/images/team/team-2.jpg" alt />
+//                       <img src="/assets/images/team/team-2.jpg" alt />
 //                     </div>
 //                     <div className="wpo-team-content">
 //                       <div className="wpo-team-text-sub">
@@ -115,7 +115,7 @@
 //                 <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
 //                   <div className="wpo-team-wrap">
 //                     <div className="wpo-team-img">
-//                       <img src="/public/assets/images/team/team-3.jpg" alt />
+//                       <img src="/assets/images/team/team-3.jpg" alt />
 //                     </div>
 //                     <div className="wpo-team-content">
 //                       <div className="wpo-team-text-sub">
@@ -167,7 +167,7 @@ export default function Volunteer() {
                 <div className="volunteer-item">
                   <div className="volunteer-img-wrap">
                     <div className="volunter-img">
-                      <img src="/public/assets/images/volunteer.jpg" alt="Volunteer" />
+                      <img src="/assets/images/volunteer.jpg" alt="Volunteer" />
                     </div>
                   </div>
                 </div>
@@ -205,7 +205,7 @@ export default function Volunteer() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="src/assets/images/team/team-1.jpg" alt="Team Member" />
+                    <img src="/assets/images/team/team-1.jpg" alt="Team Member" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -218,7 +218,7 @@ export default function Volunteer() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/public/assets/images/team/team-2.jpg" alt="Team Member" />
+                    <img src="/assets/images/team/team-2.jpg" alt="Team Member" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -231,7 +231,7 @@ export default function Volunteer() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/public/assets/images/team/team-3.jpg" alt="Team Member" />
+                    <img src="/assets/images/team/team-3.jpg" alt="Team Member" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
