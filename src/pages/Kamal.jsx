@@ -28,7 +28,7 @@ const HappyBirthday = () => {
     // Optionally, hide the greeting after a few seconds
     const timer = setTimeout(() => {
       setShowGreeting(false);
-    }, 5000); // Hide after 5 seconds
+    }, 10000); // Hide after 5 seconds
 
     return () => clearTimeout(timer);
   }, []);
