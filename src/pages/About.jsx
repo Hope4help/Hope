@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
+import Team from './Team'
 export default function About() {
   return (
     <div>
@@ -117,7 +118,7 @@ export default function About() {
                   <p>We believe in taking concrete steps to improve lives, providing essential resources such as food, shelter, healthcare, and education to individuals and families facing adversity.</p>
                   <p>Through our comprehensive programs, we aim not only to meet immediate needs but also to restore dignity and inspire hope for a brighter future.</p>
                   <div className="btns">
-                    <a href="#" className="theme-btn">JOIN US</a>
+                    <Link to="/donate" className="theme-btn">JOIN US</Link>
                   </div>
                 </div>
               </div>
@@ -131,7 +132,7 @@ export default function About() {
         </div>
         {/* wpo-about-area end */}
         {/* wpo-team-area start */}
-        <div className="wpo-team-area section-padding">
+        {/* <div className="wpo-team-area section-padding">
           <div className="container">
             <div className="row">
               <div className="col-12">
@@ -145,7 +146,7 @@ export default function About() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/assets/images/team/team-1.jpg" alt="team-1" />
+                    <img src="\assets\images\team\1.jpg" alt="team-1" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -159,7 +160,7 @@ export default function About() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/assets/images/team/team-2.jpg" alt="team-2" />
+                    <img src="\assets\images\team\4.jpeg" alt="team-2" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -173,7 +174,7 @@ export default function About() {
               <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
                 <div className="wpo-team-wrap">
                   <div className="wpo-team-img">
-                    <img src="/assets/images/team/team-3.jpg" alt="team-3" />
+                    <img src="\assets\images\team\3.jpeg" alt="team-3" />
                   </div>
                   <div className="wpo-team-content">
                     <div className="wpo-team-text-sub">
@@ -184,9 +185,25 @@ export default function About() {
                   </div>
                 </div>
               </div>
+              <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
+                <div className="wpo-team-wrap">
+                  <div className="wpo-team-img">
+                    <img src="\assets\images\team\3.jpg" alt="team-3" />
+                  </div>
+                  <div className="wpo-team-content">
+                    <div className="wpo-team-text-sub">
+                      <h2>Juliya Jossoy</h2>
+                      <span>Volunteer</span>
+                      
+                    </div>
+                  </div>
+                </div>
+              </div>
+              
             </div>
           </div>
-        </div>
+        </div> */}
+        <Team/>
         {/* wpo-team-area end */}
 
     </div>

@@ -137,7 +137,7 @@
 // }
 import React from 'react';
 import { Link } from 'react-router-dom';
-
+import Team from './Team';
 export default function Volunteer() {
   return (
     <div>
@@ -191,59 +191,7 @@ export default function Volunteer() {
           </div>
         </div>
         {/* wpo-team-area start */}
-        <div className="wpo-team-area section-padding">
-          <div className="container">
-            <div className="row">
-              <div className="col-12">
-                <div className="wpo-section-title">
-                  <span>Meet Our Team</span>
-                  <h2>Our Expert Volunteer</h2>
-                </div>
-              </div>
-            </div>
-            <div className="row">
-              <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
-                <div className="wpo-team-wrap">
-                  <div className="wpo-team-img">
-                    <img src="/assets/images/team/team-1.jpg" alt="Team Member" />
-                  </div>
-                  <div className="wpo-team-content">
-                    <div className="wpo-team-text-sub">
-                      <h2>Smith Tomkin</h2>
-                      <span>CEO & Founder</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
-                <div className="wpo-team-wrap">
-                  <div className="wpo-team-img">
-                    <img src="/assets/images/team/team-2.jpg" alt="Team Member" />
-                  </div>
-                  <div className="wpo-team-content">
-                    <div className="wpo-team-text-sub">
-                      <h2>Robert Honey</h2>
-                      <span>Volunteer</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div className="col-lg-4 col-md-4 col-sm-6 col-12 custom-grid">
-                <div className="wpo-team-wrap">
-                  <div className="wpo-team-img">
-                    <img src="/assets/images/team/team-3.jpg" alt="Team Member" />
-                  </div>
-                  <div className="wpo-team-content">
-                    <div className="wpo-team-text-sub">
-                      <h2>Juliya Jossoy</h2>
-                      <span>Volunteer</span>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
+        <Team/>
         {/* wpo-team-area end */}
       </div>
       {/* volunteer-area-end */}

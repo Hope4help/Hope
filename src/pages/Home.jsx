@@ -18,8 +18,8 @@ export default function Home() {
                     <h2>Let’s be Kind for <span>Children</span></h2>
                   </div>
                   <div className="slide-subtitle">
-                    <p>High Quality Charity Theme in Envato Market.</p>
-                    <p>You Can Satisfied Yourself By Helping.</p>
+                    <p>Every child deserves a bright future</p>
+                    <p>Together, we can bring smiles to their faces</p>
                   </div>
                   <div className="btns">
                     <Link to="/donate" className="theme-btn">Donate Now</Link>

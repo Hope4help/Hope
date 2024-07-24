@@ -53,7 +53,7 @@ const HappyBirthday = () => {
         <>
           <Confetti width={width} height={height} />
           <GreetingContainer>
-            <GreetingTitle>Happy Birthday Team WAB!</GreetingTitle>
+            <GreetingTitle>Happy Birthday Sruthi </GreetingTitle>
             <GreetingMessage>
               Wishing you a day filled with happiness and a year filled with joy.
             </GreetingMessage>

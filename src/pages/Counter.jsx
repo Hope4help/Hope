@@ -124,10 +124,10 @@ const Counter = () => {
   useEffect(() => {
     if (isVisible) {
       setCounts({
-        donations: 6200,
-        fundsRaised: 80,
-        volunteers: 245,
-        projects: 605,
+        donations: 3,
+        fundsRaised: 270,
+        volunteers: 43,
+        projects: 17,
       });
     }
   }, [isVisible]);
@@ -155,22 +155,24 @@ const Counter = () => {
             <div className="col-lg-12">
               <div className="wpo-counter-grids">
                 <div className="grid">
-                  <div>
-                    <h2><span className="odometer odometer-donations" data-count={6200}>00</span>+</h2>
-                  </div>
-                  <p>Donation</p>
-                </div>
-                <div className="grid">
-                  <div>
+                <div>
                     <h2><span className="odometer odometer-fundsRaised" data-count={80}>00</span>+</h2>
                   </div>
-                  <p>Fund Raised</p>
+                  <p>Meals Served</p>
                 </div>
                 <div className="grid">
-                  <div>
+                <div>
                     <h2><span className="odometer odometer-volunteers" data-count={245}>00</span>+</h2>
                   </div>
                   <p>Volunteers</p>
+                    
+                </div>
+                  
+                <div className="grid">
+                <div>
+                <h2><span className="odometer odometer-donations" data-count={3}>00</span>+</h2>
+                  </div>
+                  <p>Awards</p>
                 </div>
                 <div className="grid">
                   <div>

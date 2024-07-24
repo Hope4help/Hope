@@ -27,7 +27,7 @@ export default function Donate() {
             <div className="row">
             <div className="col-lg-8 col-lg-offset-2">
                 <div className="wpo-donate-header">
-                   <a href='https://rzp.io/l/LoUTqS33p'>
+                   <a href='https://rzp.io/l/M675mJq' target="_blank">
                 <h2>Make a Donation</h2>
                 </a> 
                 </div>

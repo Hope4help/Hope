@@ -30,7 +30,7 @@ export default function Cause() {
                     </div>
                     <div className="wpo-mission-content">
                     <h2>Clean Water</h2>
-                    <p>We provide access to safe and clean drinking water to improve healt=" impr"h and well-being.</p>
+                    <p>We provide access to safe and clean drinking water to improve health and well-being.</p>
                     </div>
                 </div>
                 </div>
@@ -40,8 +40,8 @@ export default function Cause() {
                     <i className="fi flaticon-food-and-restaurant" />
                     </div>
                     <div className="wpo-mission-content">
-                    <h2>Healt="     "hy Food</h2>
-                    <p>We ensure that those in need have access to nutritious meals and promote better healt="e bet"h.</p>
+                    <h2>Healthy Food</h2>
+                    <p>We ensure that those in need have access to nutritious meals and promote better health.</p>
                     </div>
                 </div>
                 </div>
@@ -63,7 +63,7 @@ export default function Cause() {
                     </div>
                     <div className="wpo-mission-content">
                     <h2>Medical Facilities</h2>
-                    <p>Delivering essential healt="ssent"hcare services and medical support to those in need.</p>
+                    <p>Delivering essential healthcare services and medical support to those in need.</p>
                     </div>
                 </div>
                 </div>
@@ -115,7 +115,7 @@ export default function Cause() {
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
-                        <h2>Providing Healt="rovid"hy Food for the children</h2>
+                        <h2>Providing Healthy Food for the children</h2>
                     </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@ export default function Cause() {
                     </div>
                     <div className="wpo-case-content">
                     <div className="wpo-case-text-top">
-                        <h2>Appoint a new english teacher</h2>
+                        <h2>Promoting Mental Health Awareness</h2>
                     </div>
                     </div>
                 </div>
