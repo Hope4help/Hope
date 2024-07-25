@@ -7,7 +7,6 @@ import Kamal from "./Kamal"
 export default function Home() {
   return (
     <div>
-       <Kamal />
         <section className="hero hero-style-2">
         <div className="hero-slider">
           <div className="slide">
